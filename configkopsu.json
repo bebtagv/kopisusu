@@ -1,0 +1,180 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "https://sites.google.com/view/lunomosikvid",
+	  "email_feedback_and_report": "lynoku.square7@gmail.com",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "youtube_api_key": "0",
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "fan",
+      "backup_ad": "ironsource",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "976965670306801_976965916973443",
+      "fan_interstitial_unit_id": "976965670306801_976966096973425",
+      "fan_native_unit_id": "976965670306801_976966350306733",
+      "startapp_app_id": "0",
+      "unity_game_id": "4089993",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "1b74afc7d",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 2,
+      "native_ad_index": 1,
+      "native_ad_interval": 5,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": true,
+      "show_banner_ad_post_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_app_open_ad": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Tips Pinjaman Online KopiSusu",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/kopisusu%2Fbannerkopsu.png?alt=media&token=24c43da0-eb68-4dac-aa17-d967407cf624"
+    }
+  ],
+  "posts": [{
+      "id": 1,
+      "category": "Tips Pinjaman Online KopiSusu",
+      "title": "Tentang KSP KOPISUSU",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/kopisusu%2Fbannerkopsu.png?alt=media&token=24c43da0-eb68-4dac-aa17-d967407cf624",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/kopisusu%2F1%20Tentang%20KSP%20KOPISUSU.html?alt=media&token=885ad2e7-597f-4f94-a1a6-7adfe9b97c35",
+      "video": ""
+    },{
+      "id": 2,
+      "category": "Tips Pinjaman Online KopiSusu",
+      "title": "Cara Pengajuan Pinjaman KSP KOPISUSU",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/kopisusu%2Fbannerkopsu.png?alt=media&token=24c43da0-eb68-4dac-aa17-d967407cf624",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/kopisusu%2F2%20Cara%20Pengajuan%20Pinjaman%20KSP%20KOPISUSU.html?alt=media&token=2b0c8850-e62a-4669-a881-6ec3a17c954b",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "category": "Tips Pinjaman Online KopiSusu",
+      "title": "Bunga dan Tenor KSP KOPISUSU",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/kopisusu%2Fbannerkopsu.png?alt=media&token=24c43da0-eb68-4dac-aa17-d967407cf624",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/kopisusu%2F3%20Bunga%20dan%20Tenor%20KSP%20KOPISUSU.html?alt=media&token=8d5d0629-1da8-4b6c-acd6-d60e2b30fbb2",
+      "video": ""
+    },{
+      "id": 4,
+      "category": "Tips Pinjaman Online KopiSusu",
+      "title": "Tips Mengatasi Galbay",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/kopisusu%2Fbannerkopsu.png?alt=media&token=24c43da0-eb68-4dac-aa17-d967407cf624",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/kopisusu%2F4%20Tips%20Mengatasi%20Galbay.html?alt=media&token=23da05fc-25bf-4f46-afde-3f0620b12cd1",
+      "video": ""
+    },{
+      "id": 5,
+      "category": "Tips Pinjaman Online KopiSusu",
+      "title": "Tips Pinjaman Agar Cepat Cair",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/kopisusu%2Fbannerkopsu.png?alt=media&token=24c43da0-eb68-4dac-aa17-d967407cf624",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/kopisusu%2F5%20Tips%20Pinjaman%20Agar%20Cepat%20Cair.html?alt=media&token=0a3a38fb-7c1c-4f69-9b9e-527dbba6ed51",
+      "video": ""
+    },{
+      "id": 6,
+      "category": "Tips Pinjaman Online KopiSusu",
+      "title": "Tips Menentukan Tenor Pinjaman",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/kopisusu%2Fbannerkopsu.png?alt=media&token=24c43da0-eb68-4dac-aa17-d967407cf624",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/kopisusu%2F6%20Tips%20Menentukan%20Tenor%20Pinjaman.html?alt=media&token=3f38a211-dbed-47b3-bc14-4d019dea22ed",
+      "video": ""
+    },{
+      "id": 7,
+      "category": "Tips Pinjaman Online KopiSusu",
+      "title": "Syarat Pengajuan Pinjaman Online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/kopisusu%2Fbannerkopsu.png?alt=media&token=24c43da0-eb68-4dac-aa17-d967407cf624",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/kopisusu%2F7%20Syarat%20Pengajuan%20Pinjaman%20Online.html?alt=media&token=371b6c6c-0872-4a89-bd03-bcdbdb2e86c3",
+      "video": ""
+    },{
+      "id": 8,
+      "category": "Tips Pinjaman Online KopiSusu",
+      "title": "Daftar Pinjaman Online Yang Aman",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/kopisusu%2Fbannerkopsu.png?alt=media&token=24c43da0-eb68-4dac-aa17-d967407cf624",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/kopisusu%2F8%20Daftar%20Pinjaman%20Online%20Yang%20Aman.html?alt=media&token=4b56d5b6-3f8c-461d-abba-480ed799f005",
+      "video": ""
+    },{
+      "id": 9,
+      "category": "Tips Pinjaman Online KopiSusu",
+      "title": "Keuntungan Tenor Panjang dan Tenor Pendek",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/kopisusu%2Fbannerkopsu.png?alt=media&token=24c43da0-eb68-4dac-aa17-d967407cf624",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/kopisusu%2F9%20Keuntungan%20Tenor%20Panjang%20dan%20Tenor%20Pendek.html?alt=media&token=9b5d3ee0-2384-41b7-be38-bf038e24fe92",
+      "video": ""
+    },{
+      "id": 10,
+      "category": "Tips Pinjaman Online KopiSusu",
+      "title": "Tips Menggunakan Pinjaman Online dengan bijak",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/kopisusu%2Fbannerkopsu.png?alt=media&token=24c43da0-eb68-4dac-aa17-d967407cf624",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/kopisusu%2F10%20Tips%20Menggunakan%20Pinjaman%20Online%20dengan%20bijak.html?alt=media&token=db781697-2361-48e9-9d41-c724697e050d",
+      "video": ""
+    },{
+      "id": 11,
+      "category": "Tips Pinjaman Online KopiSusu",
+      "title": "Tips Bayar Pinjaman Online Tepat Waktu",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/kopisusu%2Fbannerkopsu.png?alt=media&token=24c43da0-eb68-4dac-aa17-d967407cf624",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/kopisusu%2F11%20Tips%20Bayar%20Pinjaman%20Online%20Tepat%20Waktu.html?alt=media&token=7c549862-2ec5-4194-a5d1-bc2104c63aa0",
+      "video": ""
+    },{
+      "id": 12,
+      "category": "Tips Pinjaman Online KopiSusu",
+      "title": "Mengenal Pinjaman Tanpa Bunga",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/kopisusu%2Fbannerkopsu.png?alt=media&token=24c43da0-eb68-4dac-aa17-d967407cf624",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/kopisusu%2F12%20Mengenal%20Pinjaman%20Tanpa%20Bunga.html?alt=media&token=6d5f4271-c418-4ce3-9eb3-82053a716cdf",
+      "video": ""
+    },{
+      "id": 13,
+      "category": "Tips Pinjaman Online KopiSusu",
+      "title": "Daftar Bank yang beri pinjaman tanpa jaminan",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/kopisusu%2Fbannerkopsu.png?alt=media&token=24c43da0-eb68-4dac-aa17-d967407cf624",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/kopisusu%2F13%20Daftar%20Bank%20yang%20beri%20pinjaman%20tanpa%20jaminan.html?alt=media&token=eeef3e84-b035-4cda-b1fc-79016f77649d",
+      "video": ""
+    },{
+      "id": 14,
+      "category": "Tips Pinjaman Online KopiSusu",
+      "title": "Tips Mengenali Pinjaman Online Ilegal",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/kopisusu%2Fbannerkopsu.png?alt=media&token=24c43da0-eb68-4dac-aa17-d967407cf624",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/kopisusu%2F14%20Tips%20Mengenali%20Pinjaman%20Online%20Ilegal.html?alt=media&token=9d410a73-11fa-469e-8898-ca4b6bebc2c1",
+      "video": ""
+    }
+	
+  ],
+  "more_apps": [
+    
+  ]
+}
